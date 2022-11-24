@@ -19,11 +19,11 @@ This final project is to build an website from the given prototype design. The c
 
 <a name="part1"></a>
 
-- [ ] Proper folder structure and naming
-- [ ] HTML document structure
-- [ ] The proper syntax used where required such as navigation, lists, sections, header, footer etc.
-- [ ] HTML contains all the elements as per the provided mock-up
-- [ ] HTML elements have adequate class names for styling
+- [x] Proper folder structure and naming
+- [x] HTML document structure
+- [x] The proper syntax used where required such as navigation, lists, sections, header, footer etc.
+- [] HTML contains all the elements as per the provided mock-up
+- [] HTML elements have adequate class names for styling
 - [ ] HTML has code comments
 - [ ] HTML code is valid
 - [ ] HTML is properly formatted
