@@ -22,12 +22,12 @@ This final project is to build an website from the given prototype design. The c
 - [x] Proper folder structure and naming
 - [x] HTML document structure
 - [x] The proper syntax used where required such as navigation, lists, sections, header, footer etc.
-- [] HTML contains all the elements as per the provided mock-up
-- [] HTML elements have adequate class names for styling
-- [ ] HTML has code comments
-- [ ] HTML code is valid
-- [ ] HTML is properly formatted
-- [ ] Proper link to GitHub Pages site submitted
+- [x] HTML contains all the elements as per the provided mock-up
+- [x] HTML elements have adequate class names for styling
+- [x] HTML has code comments
+- [x] HTML code is valid
+- [x] HTML is properly formatted
+- [x] Proper link to GitHub Pages site submitted
 
 ## 📌 License & Copyright
 
