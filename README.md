@@ -29,6 +29,28 @@ This final project is to build an website from the given prototype design. The c
 - [x] HTML is properly formatted
 - [x] Proper link to GitHub Pages site submitted
 
+## Part II
+
+<a name="part2"></a>
+
+- [ ] Create a separate folder for your CSS file
+- [ ] Add CSS reset code in the start of the file or linked before your stylesheet in the <head>
+- [ ] Mobile-first approach in the styling
+- [ ] The maximum width of the container is 1200px
+- [ ] Add a min-width media query for the screen size of 760px and above
+- [ ] Use the 'Open Sans' Google font for the webpage
+- [ ] Colours values used in the layout #c78c06, #ffe6ac, #222 and white
+- [ ] Use of CSS Grid properties for a minimum of one element
+- [ ] Use of CSS Flexbox properties for a minimum of one element
+- [ ] Follow proper folder structure and naming conventions
+- [ ] CSS has code comments
+- [ ] CSS code is valid
+- [ ] No inline styles are used in the CSS
+- [ ] CSS is properly formatted
+- [ ] HTML code is valid
+- [ ] Proper link to GitHub Pages site submitted
+- [ ] Overall design and match with the provided mockup
+
 ## 📌 License & Copyright
 
 <a name="license-&-copyright"></a>

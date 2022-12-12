@@ -1,0 +1,309 @@
+/* DEFAULT STYLES */
+
+body {
+  color: #000000;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+h1 {
+  font-size: 71px;
+  font-weight: bold;
+  letter-spacing: -1px;
+  line-height: 106px;
+  margin-bottom: 15px;
+}
+
+h2 {
+  font-size: 48px;
+  font-weight: bold;
+  letter-spacing: -1.1px;
+  margin-bottom: 12px;
+  margin-top: 20px;
+}
+
+h3 {
+  font-size: 32px;
+  font-weight: bold;
+  letter-spacing: -0.6px;
+  padding: 7px 0 14px;
+}
+
+h4 {
+  font-size: 15px;
+  font-weight: bold;
+  border-bottom: #C78B07 solid 2px;
+  margin-bottom: 1em;
+}
+
+p {
+  letter-spacing: -0.1px;
+  line-height: 20px;
+  margin-bottom: 1em;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+button {
+  border: none;
+  cursor: pointer;
+  font-size: 21px;
+  padding: 30px;
+}
+
+button span {
+  font-size: 25px;
+  padding-left: 10px;
+}
+
+.container {
+  padding: 1em;
+}
+
+nav {
+  background-color: #222222;
+}
+
+nav li {
+  text-align: center;
+}
+
+nav a:link,
+nav a:visited {
+  color: #C78B07;
+  display: block;
+  font-size: 18px;
+  padding: 15px;
+  text-decoration: none;
+}
+
+nav li.current a:link,
+nav li.current a:visited {
+  background-color: #C78B07;
+  color: #000000;
+}
+
+.logo {
+  background-color: #C78B07;
+  padding: 15px 0;
+}
+
+nav form {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+  height: 42px;
+}
+
+nav form input {
+  font-size: 18px;
+  padding-left: 5px;
+  width: 100%;
+}
+
+nav form button {
+  background: none;
+  border: 1px solid #C78B07;
+  color: #C78B07;
+  font-size: 22px;
+  padding: 6px 8px;
+}
+
+
+/* WELCOME SECTION */
+
+.header-welcome {
+  background-image: url(../imgs/main-banner.jpg);
+  background-size: cover;
+  background-position: center;
+  padding: 66px 0;
+}
+
+.header-welcome .container {
+  background-color: rgba(0, 0, 0, 0.6);
+  color: #FFFFFF;
+  padding-top: 50px;
+}
+
+.header-welcome button {
+  background-color: #C78B07;
+}
+
+
+/* ABOUT SECTION */
+
+.section-about {
+  background-color: #FFE6AC;
+}
+
+.section-about h2 {
+  margin-top: 17px;
+}
+
+.section-about p {
+  letter-spacing: -0.2px;
+}
+
+
+/* SERVICES SECTION */
+
+.section-services .block-service {
+  background-color: #FFE6AC;
+  margin-bottom: 14px;
+}
+
+.section-services .block-service .content {
+  padding: 1em;
+}
+
+.section-services img {
+  width: 100%;
+}
+
+.section-services .block-service button {
+  background-color: #222222;
+  color: #FFFFFF;
+}
+
+.section-services .block-service:last-child {
+  margin-bottom: 0;
+}
+
+
+/* VISION SECTION */
+
+.section-vision {
+  color: #FFFFFF;
+  margin-top: 1em;
+}
+
+.section-vision .container {
+  background-image: url(../imgs/vision.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.section-vision h3 {
+  padding-top: 7px;
+}
+
+.section-vision button {
+  border: 1px solid #C78B07;
+  background: linear-gradient(to right, #0f1829, #14304c);
+  color: #FFFFFF;
+}
+
+
+/* TEAM SECTION */
+
+.section-team img {
+  width: 100%;
+}
+
+.section-team h3 {
+  padding-bottom: 0;
+}
+
+.section-team .block-team {
+  background-color: #FFE6AC;
+}
+
+.section-team .block-team:nth-child(odd) {
+  padding: 0 1em 1em;
+  margin-bottom: 1em;
+}
+
+/* .section-team .block-team:last-child {
+  margin-bottom: 0;
+} */
+
+
+/* CONTACT SECTION - MESSAGE */
+
+.section-contact h3 {
+  padding-top: 0;
+  padding-bottom: 7px;
+}
+
+.section-contact label {
+  display: flex;
+  flex-direction: column;
+}
+
+.section-contact input {
+  height: 26px;
+  margin: 0;
+  margin-bottom: 6px;
+}
+
+.section-contact input, textarea {
+  margin-top: 4px;
+}
+
+.section-contact textarea {
+  height: 141px;
+  resize: none;
+}
+
+.section-contact .send-input {
+  background-color: #222222;
+  color: #F6A900;
+  cursor: pointer;
+  font-size: 20px;
+  margin-top: 20px;
+  padding: 2px 4px;
+  width: fit-content;
+  height: fit-content;
+}
+
+
+/* CONTACT SECTION - OPERATION */
+.contact-operation h3 {
+  margin-top: 16px;
+}
+
+.contact-operation table {
+  margin-bottom: 1em;
+  width: 100%;
+}
+
+.contact-operation th {
+  background-color: #FFE6AC;
+  padding: 1em 0;
+}
+
+.contact-operation td {
+  padding: 1em;
+}
+
+.contact-operation tr, th, td {
+  border: 1px solid #000000;
+}
+
+
+/* CONTACT SECTION - LOCATION */
+
+.contact-location iframe {
+  width: 100%;
+}
+
+
+/* FOOTER */
+
+footer {
+  background-color: #222222;
+  color: #C78B07;
+}
+
+footer p {
+  margin-bottom: 0;
+  margin-top: 1em;
+}
+
+footer p u {
+  cursor: pointer;
+}
