@@ -44,11 +44,11 @@ This final project is to build an website from the given prototype design. The c
 - [x] Use of CSS Flexbox properties for a minimum of one element
 - [x] Follow proper folder structure and naming conventions
 - [x] CSS has code comments
-- [ ] CSS code is valid
+- [x] CSS code is valid
 - [x] No inline styles are used in the CSS
 - [x] CSS is properly formatted
-- [ ] HTML code is valid
-- [ ] Proper link to GitHub Pages site submitted
+- [x] HTML code is valid
+- [x] Proper link to GitHub Pages site submitted
 - [x] Overall design and match with the provided mockup
 
 ## 📌 License & Copyright
