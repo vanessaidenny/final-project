@@ -33,23 +33,23 @@ This final project is to build an website from the given prototype design. The c
 
 <a name="part2"></a>
 
-- [ ] Create a separate folder for your CSS file
-- [ ] Add CSS reset code in the start of the file or linked before your stylesheet in the <head>
-- [ ] Mobile-first approach in the styling
-- [ ] The maximum width of the container is 1200px
-- [ ] Add a min-width media query for the screen size of 760px and above
-- [ ] Use the 'Open Sans' Google font for the webpage
-- [ ] Colours values used in the layout #c78c06, #ffe6ac, #222 and white
-- [ ] Use of CSS Grid properties for a minimum of one element
-- [ ] Use of CSS Flexbox properties for a minimum of one element
-- [ ] Follow proper folder structure and naming conventions
-- [ ] CSS has code comments
+- [x] Create a separate folder for your CSS file
+- [x] Add CSS reset code in the start of the file or linked before your stylesheet in the <head>
+- [x] Mobile-first approach in the styling
+- [x] The maximum width of the container is 1200px
+- [x] Add a min-width media query for the screen size of 760px and above
+- [x] Use the 'Open Sans' Google font for the webpage
+- [x] Colours values used in the layout #c78c06, #ffe6ac, #222 and white
+- [x] Use of CSS Grid properties for a minimum of one element
+- [x] Use of CSS Flexbox properties for a minimum of one element
+- [x] Follow proper folder structure and naming conventions
+- [x] CSS has code comments
 - [ ] CSS code is valid
-- [ ] No inline styles are used in the CSS
-- [ ] CSS is properly formatted
+- [x] No inline styles are used in the CSS
+- [x] CSS is properly formatted
 - [ ] HTML code is valid
 - [ ] Proper link to GitHub Pages site submitted
-- [ ] Overall design and match with the provided mockup
+- [x] Overall design and match with the provided mockup
 
 ## 📌 License & Copyright
 

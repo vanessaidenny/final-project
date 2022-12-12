@@ -51,6 +51,7 @@ img {
 button {
   border: none;
   cursor: pointer;
+  font-family: 'Open Sans', sans-serif;
   font-size: 21px;
   padding: 30px;
 }
@@ -63,6 +64,9 @@ button span {
 .container {
   padding: 1em;
 }
+
+
+/* HEADER */
 
 nav {
   background-color: #222222;
@@ -177,14 +181,11 @@ nav form button {
 /* VISION SECTION */
 
 .section-vision {
-  color: #FFFFFF;
-  margin-top: 1em;
-}
-
-.section-vision .container {
   background-image: url(../imgs/vision.jpg);
   background-size: cover;
   background-position: center;
+  color: #FFFFFF;
+  margin-top: 1em;
 }
 
 .section-vision h3 {
